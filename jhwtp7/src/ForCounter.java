@@ -12,7 +12,9 @@ public class ForCounter
 
       System.out.println(); // output a newline
    } // end main
-} // end class ForCounter changes by mark
+} // end class ForCounter 
+
+// cleaned up by mjohn79
 
 
 /**************************************************************************
